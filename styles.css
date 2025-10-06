@@ -347,7 +347,7 @@ h1 {
 
 /* media-query for tablet view  */
 
-@media (min-width: 400px) and (max-width: 900px) {
+@media (min-width: 600px) and (max-width: 900px) {
   .responsive-container {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(7, 1fr);
