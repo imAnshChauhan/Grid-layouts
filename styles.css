@@ -416,3 +416,7 @@ h1 {
     grid-row: 7/8;
   }
 }
+
+/* should have used more grid, they can give more control over layout as needed */
+/* more grids won't be a problem but less grid can be problem as you won't have more control over layout  */
+/* ####less grids more or less like tight coupling ### */
